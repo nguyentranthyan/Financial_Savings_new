@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/trans_book"
+        android:icon="@drawable/ic_library_books_black_24dp"
+        android:title="@string/trans_book" />
+
+    <item
+        android:id="@+id/report"
+        android:icon="@drawable/ic_timelapse_black_24dp"
+        android:title="@string/report" />
+
+    <item
+        android:id="@+id/add_trans"
+        android:icon="@drawable/ic_add_circle_black_24dp"
+        android:title="@string/add_trans" />
+
+    <item
+        android:id="@+id/planning"
+        android:icon="@drawable/ic_event_note_black_24dp"
+        android:title="@string/planning" />
+
+    <item
+        android:id="@+id/personal"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="@string/personal" />
+
+</menu>
